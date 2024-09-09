@@ -1,6 +1,7 @@
 # Langchain OpenSearch 벡터 인덱서
 
 이 프로젝트는 AWS Bedrock과 OpenSearch를 사용하여 문서를 벡터화하고 인덱싱하는 도구입니다. Langchain 라이브러리를 활용하여 텍스트 처리와 벡터 저장소 생성을 수행합니다.
+**Amazon OpenSearch Serverless, Amazon Titan Text Embeddings v2(amazon.titan-embed-text-v2:0)를 사용하였습니다.**
 
 ## 주요 기능
 
